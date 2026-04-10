@@ -1,5 +1,7 @@
 # Call Duration and Sales Insights
 
+Data analysis project exploring the relationship between call duration and sales conversion in a real-world call center operation.
+
 ## 🧩 Business Context
 
 In a sales call center operation, each call represents a revenue opportunity. However, while an agent is engaged in a call, they are unable to attend new incoming customers.
