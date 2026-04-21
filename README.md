@@ -2,6 +2,8 @@
 
 ## Data Analysis Portfolio – Operational Insights
 
+---
+
 ### 👋 About Me 
 
 I am an Electronic Engineer with a background in academic coordination and operational environments, currently transitioning into data analysis roles. 
@@ -9,6 +11,8 @@ I am an Electronic Engineer with a background in academic coordination and opera
 My work focuses on understanding how operational variables impact performance and translating data into actionable insights. I have conducted analyses on call duration, sales conversion, and agent behavior, identifying patterns and trade-offs that affect business outcomes. 
 
 I recently consolidated this work into a structured portfolio to demonstrate my analytical thinking and problem-solving approach using real-world data. 
+
+---
 
 ### 📊 Projects 
 
@@ -37,11 +41,15 @@ Key focus:
 
 📄 View case 
 
+---
+
 ### 🛠 Tools 
 
 Excel (data cleaning, analysis, visualization) 
 
 SQL (currently learning) 
+
+---
 
 ### 🎯 Professional Direction 
 
@@ -49,9 +57,11 @@ I am focused on contributing to data-driven decision-making in productive sector
 
 I bring a structured way of thinking, the ability to explain complex ideas clearly, and a strong focus on solving real problems using data. 
 
+---
+
 ### 📬 Contact 
 
-LinkedIn: [your link] 
+LinkedIn: [Alfredo Andres Gutierrez](http://www.linkedin.com/in/alfredogutierrezv) 
 
 GitHub: [your profile] 
 
