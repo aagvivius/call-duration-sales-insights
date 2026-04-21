@@ -24,41 +24,32 @@ Key focus:
 
 📄 [View project](./call-duration-analysis/README.md)
 
-🔹 Agent Call Distribution Analysis 
+#### 🔹 Agent Call Distribution Analysis 
 
 Investigation of an atypical operational scenario involving low inbound call volume. 
 
 Key focus: 
 
-Inbound vs outbound traffic behavior 
-
-Call duration differences 
-
-Occupancy analysis 
-
-Identification of operational patterns 
+- Inbound vs outbound traffic behavior
+- Call duration differences
+- Occupancy analysis
+- Identification of operational patterns
 
 📄 View case 
 
- 
-
-🛠 Tools 
+### 🛠 Tools 
 
 Excel (data cleaning, analysis, visualization) 
 
 SQL (currently learning) 
 
- 
-
-🎯 Professional Direction 
+### 🎯 Professional Direction 
 
 I am focused on contributing to data-driven decision-making in productive sectors such as telecommunications, commercial operations, and industrial environments. 
 
 I bring a structured way of thinking, the ability to explain complex ideas clearly, and a strong focus on solving real problems using data. 
 
- 
-
-📬 Contact 
+### 📬 Contact 
 
 LinkedIn: [your link] 
 
