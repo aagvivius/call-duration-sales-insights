@@ -104,7 +104,7 @@ The complete analysis report is available in Spanish:
 ---
 
 ## 📁 Repository Structure
-├── report/ │   └── portafolio.pdf │ ├── data/ │   └── dataset_anonymized.xlsx │ ├── analysis/ │   └── analysis_file.xlsx │ └── images/ └── charts.png
+├── report/ │   └── portafolio.pdf │ ├── data/ │   └── dataset_anonymized.xlsx │ ├── analysis/ │   └── analysis_file.xlsx ├── images/ └── charts.png
 
 ---
 
