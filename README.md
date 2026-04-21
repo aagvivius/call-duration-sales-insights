@@ -63,6 +63,6 @@ I bring a structured way of thinking, the ability to explain complex ideas clear
 
 LinkedIn: [Alfredo Andres Gutierrez](http://www.linkedin.com/in/alfredogutierrezv) 
 
-GitHub: [your profile] 
+GitHub: [Alfredo Andres Gutierrez](https://github.com/aagvivius) 
 
  
