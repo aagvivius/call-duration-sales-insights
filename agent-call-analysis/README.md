@@ -8,7 +8,7 @@ A sales agent showed an unusually low volume of inbound calls during a given wee
 
 ## ❓ Analytical Question 
 
-Why is the inbound call volume for this agent significantly lower than expected? 
+**Why is the inbound call volume for this agent significantly lower than expected?**
 
 --- 
 
