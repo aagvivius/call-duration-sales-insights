@@ -39,7 +39,7 @@ Key focus:
 - Occupancy analysis
 - Identification of operational patterns
 
-📄 View case 
+📄 [View case](./agent-call-analysis/README.md)
 
 ---
 
