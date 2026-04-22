@@ -1,1 +1,50 @@
+# Agent Call Distribution Analysis 
 
+## 🧩 Business Context 
+
+A sales agent showed an unusually low volume of inbound calls during a given week, raising concerns about performance or system-related issues. 
+
+--- 
+
+## ❓ Analytical Question 
+
+Why is the inbound call volume for this agent significantly lower than expected? 
+
+--- 
+
+## 📊 Data Exploration 
+
+The analysis included: 
+
+- Inbound vs outbound call volume comparison   
+- Call duration analysis   
+- Agent occupancy calculation   
+
+Key observations: 
+
+- Outbound calls were 2.25x higher than inbound calls   
+- Average inbound call duration: ~10 minutes   
+- Average outbound call duration: ~20 seconds   
+- Agent occupancy: ~15%   
+
+--- 
+
+## 🔍 Key Findings 
+
+- High volume of short outbound calls suggests atypical behavior compared to standard callback patterns   
+- Low occupancy indicates the agent was underutilized despite call activity   
+- The combination of these factors suggests a potential issue in call prioritization or callback scheduling 
+
+--- 
+
+## 💡 Conclusion 
+
+The observed behavior indicates a deviation from expected operational patterns. 
+
+It is recommended to validate the agent's callback scheduling and system configuration to ensure proper prioritization of inbound calls. 
+
+--- 
+
+## 🧠 Key Insight 
+
+> Not all call activity reflects productive workload. High outbound volume with low duration and low occupancy may indicate inefficiencies or system misconfiguration rather than performance issues.
