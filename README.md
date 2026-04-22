@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 About Me 
+## 👋 About Me 
 
 I am an Electronic Engineer with a background in academic coordination and operational environments, currently transitioning into data analysis roles. 
 
@@ -14,9 +14,9 @@ I recently consolidated this work into a structured portfolio to demonstrate my 
 
 ---
 
-### 📊 Projects 
+## 📊 Projects 
 
-#### 🔹 Call Duration vs Sales Conversion 
+### 🔹 Call Duration vs Sales Conversion 
 
 Analysis of the relationship between call duration and probability of sales conversion in a call center environment. 
 
@@ -28,7 +28,7 @@ Key focus:
 
 📄 [View project](./call-duration-analysis/README.md)
 
-#### 🔹 Agent Call Distribution Analysis 
+### 🔹 Agent Call Distribution Analysis 
 
 Investigation of an atypical operational scenario involving low inbound call volume. 
 
@@ -43,7 +43,7 @@ Key focus:
 
 ---
 
-### 🛠 Tools 
+## 🛠 Tools 
 
 Excel (data cleaning, analysis, visualization) 
 
@@ -51,7 +51,7 @@ SQL (currently learning)
 
 ---
 
-### 🎯 Professional Direction 
+## 🎯 Professional Direction 
 
 I am focused on contributing to data-driven decision-making in productive sectors such as telecommunications, commercial operations, and industrial environments. 
 
@@ -59,7 +59,7 @@ I bring a structured way of thinking, the ability to explain complex ideas clear
 
 ---
 
-### 📬 Contact 
+## 📬 Contact 
 
 LinkedIn: [Alfredo Andres Gutierrez](http://www.linkedin.com/in/alfredogutierrezv) 
 
