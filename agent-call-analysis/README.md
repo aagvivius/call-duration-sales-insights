@@ -48,3 +48,9 @@ It is recommended to validate the agent's callback scheduling and system configu
 ## 🧠 Key Insight 
 
 > Not all call activity reflects productive workload. High outbound volume with low duration and low occupancy may indicate inefficiencies or system misconfiguration rather than performance issues.
+
+---
+
+## 👤 Author
+
+Alfredo Andres Gutierrez Vivius. B.Sc. Electronics Engineering.  M.Sc. Mechanical Engineering
