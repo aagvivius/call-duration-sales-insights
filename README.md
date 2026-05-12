@@ -10,7 +10,7 @@ I am an Electronic Engineer with a background in academic coordination and opera
 
 My work focuses on understanding how operational variables impact performance and translating data into actionable insights. I have conducted analyses on call duration, sales conversion, and agent behavior, identifying patterns and trade-offs that affect business outcomes. 
 
-This portfolio consolidates my analytical work and demonstrates how I approach real-world problems using data. 
+This portfolio consolidates my analytical work and demonstrates how I approach problems using data. 
 
 ---
 
@@ -18,7 +18,7 @@ This portfolio consolidates my analytical work and demonstrates how I approach r
 
 ### 🔹 Call Duration vs Sales Conversion 
 
-Analysis of the relationship between call duration and probability of sales conversion in a call center environment. 
+Operational data analysis of the relationship between call duration and probability of sales conversion in call center environments.
 
 Key focus: 
 
