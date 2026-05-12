@@ -1,6 +1,6 @@
 # Call Duration and Sales Insights
 
-Data analysis project exploring the relationship between call duration and sales conversion in a real-world call center operation.
+Data analysis project exploring the relationship between call duration and sales conversion in a call center operational scenarios.
 
 ## 🧩 Business Context
 
@@ -28,8 +28,9 @@ This analysis was built using two independent systems:
 Both datasets were linked using a composite key based on:
 Date + Customer Phone Number + Agent ID
 
-⚠️ **Note:**  
-All data has been anonymized. No real customer or sensitive information is included.
+⚠️ **Note:**
+
+Operational values were intentionally modified to preserve confidentiality while maintaining analytical consistency.
 
 ---
 
@@ -61,14 +62,14 @@ The analysis included:
 
 ## 🔍 Key Findings
 
-- **65.6% of sales occur between 15 and 35 minutes**  
+- **51.5% of sales occur between 15 and 30 minutes**  
 - The **probability of closing a sale increases with call duration**  
 - Call volume drops significantly after 35 minutes  
-- Top-performing agents operate between **17 and 25 minutes**  
+- Top-performing agents operate between **17 and 27 minutes**  
 - Three behavioral zones were identified:
   - Exploration (< 15 min)
-  - Commercial conversation (15–35 min)
-  - Extended negotiation (> 35 min)
+  - Commercial conversation (15–30 min)
+  - Extended negotiation (> 30 min)
 
 ---
 
@@ -122,4 +123,12 @@ Alfredo Andres Gutierrez Vivius. B.Sc. Electronics Engineering.  M.Sc. Mechanica
 
 This project was developed as an applied data analysis case based on a real-world sales operation.
 
+---
 
+## ⚠️ Disclaimer ⚠️
+
+The datasets, metrics, tables, and visualizations presented in this repository have been modified and anonymized for portfolio and educational purposes.
+
+The analytical structure, methodology, and business insights were preserved, while operational values and sensitive information were intentionally altered to prevent identification of real operations, clients, systems, or organizations.
+
+This project is intented exclusively to demonstrate data analysis, problem-solving, and reporting skills.
