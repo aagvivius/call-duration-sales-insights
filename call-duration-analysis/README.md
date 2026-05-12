@@ -1,6 +1,6 @@
 # Call Duration and Sales Insights
 
-Data analysis project exploring the relationship between call duration and sales conversion in a call center operational scenarios.
+Operational data analysis in call center environments, exploring the relationship between call duration and sales conversion.
 
 ## 🧩 Business Context
 
