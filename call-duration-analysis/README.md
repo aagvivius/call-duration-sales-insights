@@ -121,8 +121,6 @@ The complete analysis report is available in Spanish:
 
 Alfredo Andres Gutierrez Vivius. B.Sc. Electronics Engineering.  M.Sc. Mechanical Engineering
 
-This project was developed as an applied data analysis case based on a real-world sales operation.
-
 ---
 
 ## ⚠️ Disclaimer ⚠️
