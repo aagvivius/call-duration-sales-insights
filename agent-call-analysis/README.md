@@ -54,3 +54,13 @@ It is recommended to validate the agent's callback scheduling and system configu
 ## 👤 Author
 
 Alfredo Andres Gutierrez Vivius. B.Sc. Electronics Engineering.  M.Sc. Mechanical Engineering
+
+---
+
+## ⚠️ Disclaimer ⚠️
+
+The datasets, metrics, and visualizations presented in this repository have been modified and anonymized for portfolio and educational purposes.
+
+The analytical structure, methodology, and business insights were preserved, while operational values and sensitive information were intentionally altered to prevent identification of real operations, clients, systems, or organizations.
+
+This project is intented exclusively to demonstrate data analysis, problem-solving, and reporting skills.
