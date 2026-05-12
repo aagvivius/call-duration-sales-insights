@@ -22,9 +22,9 @@ The analysis included:
 
 Key observations: 
 
-- Outbound calls were 1.7x higher than inbound calls   
+- Outbound calls were 1.8x higher than inbound calls   
 - Average inbound call duration: ~3 minutes   
-- Average outbound call duration: ~36 seconds   
+- Average outbound call duration: ~38 seconds   
 - Agent occupancy: ~10%   
 
 --- 
